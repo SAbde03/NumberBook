@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="letter_colors">
+        <item>#FFAB91</item>  <!-- Coral -->
+        <item>#FFCC80</item>  <!-- Peach -->
+        <item>#E6EE9C</item>  <!-- Lime -->
+        <item>#80DEEA</item>  <!-- Sky Blue -->
+        <item>#CE93D8</item>  <!-- Lavender -->
+        <item>#9FA8DA</item>  <!-- Periwinkle -->
+        <item>#81D4FA</item>  <!-- Light Blue -->
+        <item>#A5D6A7</item>  <!-- Mint -->
+        <item>#C5E1A5</item>  <!-- Pistachio -->
+        <item>#FFF59D</item>  <!-- Butter -->
+        <item>#BCAAA4</item>  <!-- Taupe -->
+        <item>#B39DDB</item>  <!-- Soft Purple -->
+    </array>
+
+    <color name="default_tag_color">#9E9E9E</color>
+</resources>
